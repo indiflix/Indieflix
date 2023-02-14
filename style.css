@@ -1,0 +1,49 @@
+.navbar {
+    display: inline-block;
+    text-decoration: none;
+    list-style: none;
+    font-size: 15px;
+}
+.navbar li {
+    display: inline-block;
+    font-size: 15px;
+}
+
+.navbar li a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    padding: 10px 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.left {
+    /* border: 2px solid red; */
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    color: rgb(80, 79, 79);
+    display: inline-block;
+    align-items: center;
+
+}
+.mid {
+    /* border: 2px solid green; */
+    color: white;
+    display: block;
+    width: 35%;
+    margin: 20px auto;
+}
+
+.right {
+    /* border: 2px solid yellow; */
+    color: white;
+    display: inline-block;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+#logo {
+    border-radius: 10px;
+}
+ x ssssxx
