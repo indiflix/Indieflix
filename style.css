@@ -1,3 +1,9 @@
+h1 {
+  margin : 10px auto 0 auto;
+  font-size: 5.625rem;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
 .navbar {
     display: inline-block;
     text-decoration: none;
